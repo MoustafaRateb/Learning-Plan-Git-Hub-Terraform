@@ -4,7 +4,7 @@
 
 | Date         | Day       | Task                                                                 | Done |
 |--------------|-----------|----------------------------------------------------------------------|------|
-| 06/09/2025   | Saturday  | Watch course videos on Workflows, Jobs, and Steps.                  | [ ]  |
+| 06/09/2025   | Saturday  | Watch course videos on Workflows, Jobs, and Steps.                  | [x]  |
 | 07/09/2025   | Sunday    | Learn triggers (`push`, `pull_request`) and try a simple workflow.  | [ ]  |
 | 08/09/2025   | Monday    | Experiment with Runners and code checkout.                          | [ ]  |
 | 09/09/2025   | Tuesday   | Experiment with using secrets in a workflow.                        | [ ]  |
